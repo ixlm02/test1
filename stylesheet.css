@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family: 'Allura', cursive;
+    padding: 20px;
+}
+#heading {
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+#main {
+    color: white;
+    font-family: 'Cormorant SC', serif;
+    font-size: 20px
+}
+#main2 {
+    color: white;
+    font-family: 'Cormorant SC', serif;
+    font-size: 18px;
+}
+#eyes1 {
+    width: 150px;
+}
+h2 {
+    color: white;
+    padding-top: 30px;
+}
+#signature {
+    width: 200px;
+}
+#main3 {
+    color: white;
+}
+#journal {
+    font-family: 'Allura', cursive;
+}
+#button {
+    font-family: 'Cormorant SC', serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #080808;
+    color: #fff;
+}
+button:hover {
+    background-color: #060606;
+}
